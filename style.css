@@ -1,0 +1,178 @@
+*{
+  margin: 0;
+  padding: 0
+}
+.logo{
+  width: 25px;
+}
+.header{
+  background-color: #1a0b2e;
+  padding: 15px 20px;
+}
+.header_nav{
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+
+}
+.knopki {
+  display: flex;
+  
+  gap: 200px;
+
+
+}
+.item{color: white;
+  font-weight: 600;
+  font-size: 20;}
+
+.photo{
+  position: absolute;
+  top: 204px;
+  left: 251px;
+  z-index: 1;
+}
+.grd{  position: absolute;
+  top: 120px;
+  left: 193px;}
+
+.strelka{
+  position: absolute;
+  top: 115px;
+  left: 415px;
+}
+.main-text{
+  color: whitesmoke;
+  font-size: 6;
+  position: relative;
+  left: 520px;
+  top: 61px;
+  font-family: 'Preahvihear';
+  
+}
+.blue{color: #7127BA;}
+
+.main-text2{  color: whitesmoke;
+  font-size: 16px;
+  position: relative;
+  left: 535px;
+  top: 125px;
+  font-family: 'Preahvihear';
+  text-decoration: underline;
+  text-decoration-thickness: 0.02px;
+  text-underline-offset: 3px;
+  
+}
+.main-text3{  color: whitesmoke;
+  font-size: xxx-large;
+  position: relative;
+  left: 540px;
+  top: 125px;
+  font-family: 'Preahvihear';
+  line-height: 1.3;
+}
+.ecl{  position: absolute;
+  top: 304.5px;
+  left: 675px;
+;}
+.main-text4{
+  color: whitesmoke;
+  font-size: 16px;
+  position: relative;
+  left: 525px;
+  top: 135px;
+  font-family: 'Preahvihear';
+}
+.zg{
+  color: whitesmoke;
+  font-size: xxx-large;
+  position: relative;
+  left: 250px;
+  top: 265px;
+  font-family: 'Preahvihear';
+}
+.doptext{color: whitesmoke;
+  font-size: large;
+  position: relative;
+  left: 250px;
+  top: 245px;
+  font-family: 'Preahvihear';
+
+}
+.info{color: whitesmoke;
+  font-size: x-large;
+  position: relative;
+  left: 250px;
+  top: 325px;
+  font-family: 'Preahvihear';
+  line-height: 1.6;
+}
+.zag {color: whitesmoke;
+  font-size: xxx-large;
+  position: relative;
+  left: 250px;
+  top: 585px;
+  font-family: 'Preahvihear';
+}
+.gr2{
+  position: absolute;
+   left: 750px;
+  top: 975px;
+  width: 730px;
+
+}
+.e{
+  position: relative;
+  top: 600px;
+  left: 200px;
+}
+.e1{
+    position: relative;
+  top: 590px;
+  left: 825px;
+}
+.skills{
+display: block;
+margin: 900px auto;
+}
+.port{
+    position: relative;
+  top: -400px;
+  left: 555px;
+}
+.cnt{color: whitesmoke;
+  font-size: xx-large;
+  position: relative;
+  left: 570px;
+  top: 0px;
+  font-family: 'Preahvihear';
+}
+.cnt1{
+  color: whitesmoke;
+  font-size: large;
+  position: relative;
+  left: 570px;
+  top: 20px;
+  font-family: 'Preahvihear';
+}
+.cnt2{
+  color: whitesmoke;
+  font-size: large;
+  position: relative;
+  left: 570px;
+  top: 120px;
+  font-family: 'Preahvihear';
+}
+.sc{
+    position: relative;
+  left: 570px;
+  top: 150px;
+}
+ul{  list-style: none;
+ }
+ a {text-decoration: none;}
+ body{  font-family: "Plus Jakarta Sans";
+  background-color: #0e0a1d;
+  overflow-x: hidden;
+
+ }
