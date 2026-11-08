@@ -111,14 +111,14 @@
   font-size: xxx-large;
   position: relative;
   left: 250px;
-  top: 585px;
+  top: 785px;
   font-family: 'Preahvihear';
 }
 .gr2{
   position: absolute;
-   left: 750px;
-  top: 975px;
-  width: 730px;
+   left: 300px;
+  top: 855px;
+  width: 1030px;
 
 }
 .e{
@@ -138,12 +138,12 @@ margin: 900px auto;
 .port{
     position: relative;
   top: -400px;
-  left: 555px;
+  left: 155px;
 }
 .cnt{color: whitesmoke;
   font-size: xx-large;
   position: relative;
-  left: 570px;
+  left: 170px;
   top: 0px;
   font-family: 'Preahvihear';
 }
@@ -151,7 +151,7 @@ margin: 900px auto;
   color: whitesmoke;
   font-size: large;
   position: relative;
-  left: 570px;
+  left: 170px;
   top: 20px;
   font-family: 'Preahvihear';
 }
@@ -159,7 +159,7 @@ margin: 900px auto;
   color: whitesmoke;
   font-size: large;
   position: relative;
-  left: 570px;
+  left: 170px;
   top: 120px;
   font-family: 'Preahvihear';
 }
